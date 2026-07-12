@@ -283,7 +283,7 @@ Google Cloud GenAI Certified
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting — let's build the future of AI, together._**
+**_Thanks for visiting_**
 
 ⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
 
