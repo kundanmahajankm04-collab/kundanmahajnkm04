@@ -283,8 +283,8 @@ Google Cloud GenAI Certified
 <!-- ============================================================ -->
 <div align="center">
 
-**_Thanks for visiting_**
+**_ Thanks for visiting _**
 
-⭐️ If you find my work useful, consider [following](https://github.com/ashishpatel26) or starring a repo.
+⭐️ If you find my work useful, consider [following](https://github.com/kundanmahajankm04-collab) or starring a repo.
 
 </div>
