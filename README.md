@@ -40,7 +40,7 @@ alt="Typing SVG" />
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ## 👋 Who I Am
 
@@ -51,7 +51,7 @@ I build interactive Power BI dashboards, analyze large datasets using SQL, Excel
 Beyond my professional experience, I continuously enhance my skills through hands-on analytics projects involving Power BI, SQL, Python, and Excel. I'm passionate about using data to uncover trends, optimize business performance, and deliver measurable results while continuously learning modern data analytics and visualization technologies.
 
 </td>
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 ## ⚡ At a Glance
 
