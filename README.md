@@ -50,11 +50,11 @@
 
 ## 👋 Who I Am
 
-I'm **Ashish Patel** — an **AI Engineer** and **Senior Principal Architect (AI/ML & DS)** with **12.5+ years** of specialized AI/ML experience and **14.5+ years** building enterprise-grade, scalable systems.
+I'm **Kundan Ashok Mahajan** — a Data Analyst and Mechanical Engineer with 3+ years of experience in industrial engineering, project execution, and data-driven decision-making, complemented by experience in data operations and business analytics.
 
-I architect **Agentic AI workflows**, **MCP server enterprise architectures**, and **GenAI/LLMOps** platforms in production across **AWS, Azure, GCP & OCI**. Beyond shipping enterprise systems, I'm an **open-source maintainer** whose curated AI/ML resources have earned **86k+ stars** and a community of **11k+ followers**.
+I build interactive Power BI dashboards, analyze large datasets using SQL, Excel, and Python, and transform complex business data into actionable insights that support operational efficiency and strategic decisions. My background in engineering enables me to combine analytical thinking with process improvement and business problem-solving.
 
-I also write — as the **author** of _Hands-on Time Series Analytics with Python_, a **22+ times published researcher** (IEEE, Springer, Taylor & Francis), and a **reviewer of 25+ technical books** for Packt, Manning & Springer Nature.
+Beyond my professional experience, I continuously enhance my skills through hands-on analytics projects involving Power BI, SQL, Python, and Excel. I'm passionate about using data to uncover trends, optimize business performance, and deliver measurable results while continuously learning modern data analytics and visualization technologies.
 
 </td>
 <td width="40%" valign="top">
