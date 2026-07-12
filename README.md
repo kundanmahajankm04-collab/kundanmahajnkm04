@@ -248,21 +248,21 @@ learning:   Advanced Statistical Modeling
 <td width="33%" valign="top" align="center">
 
 ### ✍️ Author & Writer
-- Author of "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"
-- Author of "The Little Cloud Who Didn’t Want to Rain"
-- Contributing insights on Data Analytics and Tech
-- Writing for Medium & LinkedIn <br>
+Author of "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"
+Author of "The Little Cloud Who Didn’t Want to Rain"
+Contributing insights on Data Analytics and Tech
+Writing for Medium & LinkedIn <br>
 
 ### 🎤 Speaker & Mentor
-- Speaker at AI/ML Community Events <br>
-- Mentoring aspiring Data Analysts & Engineers <br>
-- Active collaborator in Open Source projects <br>
+Speaker at AI/ML Community Events <br>
+Mentoring aspiring Data Analysts & Engineers <br>
+Active collaborator in Open Source projects <br>
 
 ### 🏆 Recognition & Expertise
-- Data Analytics & Visualization Specialist <br>
-- Proficient in SQL, Python, Power BI, & Tableau <br>
-- Google Cloud GenAI Certified
-- <br>
+Data Analytics & Visualization Specialist <br>
+Proficient in SQL, Python, Power BI, & Tableau <br>
+Google Cloud GenAI Certified
+<br>
 
 </td>
 </tr>
