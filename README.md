@@ -248,9 +248,9 @@ learning:   Advanced Statistical Modeling
 <td width="33%" valign="top" align="center">
 
 ### ✍️ Author & Writer
-- Author of "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"_ <br>
-- Author of "The Little Cloud Who Didn’t Want to Rain"_ <br>
-- Contributing insights on Data Analytics and Tech <br>
+- Author of "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"
+- Author of "The Little Cloud Who Didn’t Want to Rain"
+- Contributing insights on Data Analytics and Tech
 - Writing for Medium & LinkedIn <br>
 
 ### 🎤 Speaker & Mentor
