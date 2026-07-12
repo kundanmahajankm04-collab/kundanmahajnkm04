@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Ashish Patel
+# Kundan Mahajan
 
 #### AI Engineer · Open Source Builder · Author · Technical Content Creator
 
@@ -18,18 +18,14 @@
 <!-- ============================================================ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundanmahajan01/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imashish2604)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpatel.ce.2011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanmahajan.km04@gmail.com)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8307-9425)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashishpatel26&label=Profile%20Views&color=0077B5&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/ashishpatel26?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/ashishpatel26?tab=followers)
-[![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishpatel26)
 
 </div>
 
@@ -40,7 +36,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build production-grade AI systems and share the journey — turning 12+ years of ML research into open-source resources that 86k+ developers learn from."_
+### 🚀 _"Engineer by training, Data Analyst by passion-driving operational excellence through SQL, Python, and Power BI-led strategic visualization."_
 
 </div>
 
@@ -62,17 +58,13 @@ Beyond my professional experience, I continuously enhance my skills through hand
 ## ⚡ At a Glance
 
 ```yaml
-name:        Ashish Patel
-role:        Sr. Principal Architect (AI/ML)
-company:     Oracle
-focus:       Agentic AI · GenAI · LLMOps
-experience:  12.5+ yrs in AI/ML
-stars:       86,000+
-followers:   11,000+
-papers:      22+ published
-book:        Time Series w/ Python
-clouds:      AWS · Azure · GCP · OCI
-learning:    Quantum ML
+name:       Kundan Mahajan
+role:       Data Analyst & Mechanical Engineer
+focus:      Business Analytics · Process Optimization · Data Visualization
+experience: Data Operations · Strategic Decision-making
+tools:      SQL · Python · Power BI · Excel
+projects:   Interactive E-commerce Dashboards
+learning:   Advanced Statistical Modeling
 ```
 
 </td>
@@ -91,19 +83,19 @@ learning:    Quantum ML
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- 🤖 **Agentic AI workflows** for enterprise automation
-- 🔌 **MCP server architectures** for cloud-native LLM tooling
-- ☁️ **OCI GenAI** services & multi-agent RAG pipelines
-- 📦 Open-source **AI Agents** project collections (500+)
+- 📊 **Interactive Power BI Dashboards** for business insights
+- ⚙️ **Data-driven workflows** for process optimization
+- 📈 **Automated SQL queries** for large-scale data operations
+- 🐍 **Python-based analytical models** and data cleaning pipelines
 
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Learning & Exploring
-- ⚛️ **Quantum Machine Learning** (IBM & Qubit×Qubit certified)
-- 🧠 **AI Agent Orchestration** & reasoning patterns
-- 🔬 RLHF / DPO / GRPO **fine-tuning** at scale
-- 📈 Cost-aware **inference routing** & model distillation
+### 🏆 Learning & Exploring
+- 🎯 **Advanced Statistical Modeling** techniques
+- 🔍 **Business Analytics** & strategic decision-making
+- 🏗️ **Mechanical Engineering principles** applied to data operations
+- 💡 **Data Visualization best practices** for executive reporting
 
 </td>
 </tr>
