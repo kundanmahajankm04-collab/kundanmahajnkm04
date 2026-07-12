@@ -236,19 +236,6 @@ learning:   Advanced Statistical Modeling
 
 </div>
 
-<!-- ============================================================ -->
-<!--                     CONTRIBUTION SNAKE                       -->
-<!-- ============================================================ -->
-### 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kundanmahajnkm04-collab/kundanmahajnkm04-collab/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kundanmahajnkm04-collab/kundanmahajnkm04-collab/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kundanmahajnkm04-collab/kundanmahajnkm04-collab/output/github-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 <!-- ============================================================ -->
@@ -261,28 +248,21 @@ learning:   Advanced Statistical Modeling
 <td width="33%" valign="top" align="center">
 
 ### ✍️ Author & Writer
-📖 _Hands-on Time Series Analytics with Python_ <br>
-🔬 **22+** papers — [Google Scholar](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-8307-9425) <br>
-📚 Reviewer of **25+** technical books <br>
-✏️ Blogs on **Medium & LinkedIn**
-
-</td>
-<td width="33%" valign="top" align="center">
+- _Author of "Shattered Crores: A Story of Everything Won, Everything Lost, and the Man Still Standing"_ <br>
+- _Author of "The Little Cloud Who Didn’t Want to Rain"_ <br>
+- Contributing insights on Data Analytics and Tech <br>
+- Writing for Medium & LinkedIn <br>
 
 ### 🎤 Speaker & Mentor
-🗣️ Speaker — **AWS Community Day AI/ML 2023** <br>
-🗣️ Speaker — **Google Developer Groups 2023** <br>
-👨‍🏫 Mentored **65+** students & engineers <br>
-🧑‍🔬 Collaborator in `keras` & `tensorflow`
+- Speaker at AI/ML Community Events <br>
+- Mentoring aspiring Data Analysts & Engineers <br>
+- Active collaborator in Open Source projects <br>
 
-</td>
-<td width="33%" valign="top" align="center">
-
-### 🏅 Recognition
-⭐ **GitHub Star Club Member** <br>
-🏆 **3× Kaggle Kernel Winner** <br>
-⚛️ IBM Quantum Challenge (Advanced) <br>
-☁️ Google Cloud GenAI Certified
+### 🏆 Recognition & Expertise
+- Data Analytics & Visualization Specialist <br>
+- Proficient in SQL, Python, Power BI, & Tableau <br>
+- Google Cloud GenAI Certified <br>
+-
 
 </td>
 </tr>
