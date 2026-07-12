@@ -20,9 +20,6 @@ alt="Typing SVG" />
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundanmahajan01/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imashish2604)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kundanmahajan.km04@gmail.com)
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en)
@@ -169,17 +166,7 @@ learning:   Advanced Statistical Modeling
 
 **🧬 GenAI · LLMs · Agents · Vector DBs**
 
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-1A1A2E?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1A1A2E?style=flat-square&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-1A1A2E?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-1A1A2E?style=flat-square&logo=anthropic&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-1A1A2E?style=flat-square&logo=robotframework&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-1A1A2E?style=flat-square&logo=microsoft&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-1A1A2E?style=flat-square&logo=mlflow&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1A1A2E?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1A1A2E?style=flat-square&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-1A1A2E?style=flat-square&logo=weaviate&logoColor=white)
+
 
 </div>
 
